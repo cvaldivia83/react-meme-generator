@@ -29,6 +29,13 @@
   border: 1px solid #D5D4D8;
 }
 
+.meme--image {
+  width: 90%;
+  display: block;
+  margin: 16px auto;
+  border-radius: 2px;
+}
+
 @media only screen and (max-width: 425px) {
   .meme {
     padding: 32px 8px;
